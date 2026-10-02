@@ -52,16 +52,6 @@ npm run build
 
 The production site is written to `dist`.
 
-## Upload to Netlify
-
-You can publish the built site without connecting GitHub:
-
-1. Run `npm install` and `npm run build`.
-2. Sign in at [Netlify Drop](https://app.netlify.com/drop).
-3. Drag the `dist` folder onto the page.
-4. Open the site URL Netlify shows when the upload finishes.
-
-To publish a newer version, build again and upload the new `dist` folder.
 
 ## How it works
 
